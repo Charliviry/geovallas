@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dark">#000000</color>
+    <color name="highlight">#FF38c0f4</color>
+    <color name="holo_checked">@color/highlight</color>
+    <color name="holo_focused">#4000B6E6</color>
+    <color name="holo_pressed">#8000B6E6</color>
+    <color name="light">#ffffff</color>
+    <color name="normal">#b0b0b0</color>
+    <declare-styleable name="SegmentedControlButton"><attr format="string" name="segmentedControlButtonStyle"/><attr format="boolean" name="textAllCaps"/><attr format="color" name="lineColor"/><attr format="dimension" name="lineHeightUnselected"/><attr format="dimension" name="lineHeightSelected"/></declare-styleable>
+    <declare-styleable name="TabControlButton"><attr format="string" name="tabControlButtonStyle"/></declare-styleable>
+    <dimen name="segmented_control_default_height">41dp</dimen>
+    <dimen name="tab_bar_default_height">48dip</dimen>
+    <string name="app_name">Segcontrol</string>
+    <string name="hello">Hello World, SegcontrolActivity!</string>
+    <style name="Widget"/>
+    <style name="Widget.Holo"/>
+    <style name="Widget.Holo.SegmentedControl" parent="@android:style/Widget.CompoundButton.RadioButton">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:minWidth">45dp</item>
+        <item name="android:minHeight">@dimen/segmented_control_default_height</item>
+        <item name="android:textSize">16dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:stretchColumns">0</item>
+
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/segmented_control_background</item>
+        <item name="android:button">@null</item>
+        <item name="android:textColor">@color/segmented_control_text</item>
+
+        <item name="lineColor">@null</item>
+        <item name="lineHeightUnselected">0dp</item>
+        <item name="lineHeightSelected">0dp</item>
+    </style>
+    <style name="Widget.Holo.TabControl" parent="Widget.Holo.SegmentedControl">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:paddingLeft">20dp</item>
+        <item name="android:paddingRight">20dp</item>
+        <item name="android:minHeight">@dimen/tab_bar_default_height</item>
+        <item name="android:textSize">12dp</item>
+
+        <item name="android:background">@drawable/tab_control_background</item>
+        <item name="android:textColor">@color/tab_control_text</item>
+
+        <item name="textAllCaps">true</item>
+
+        <item name="lineColor">@color/highlight</item>
+        <item name="lineHeightUnselected">1dp</item>
+        <item name="lineHeightSelected">6dp</item>
+    </style>
+    <style name="Widget.Holo.TabWidget">
+        <item name="android:divider">?android:attr/dividerVertical</item>
+        <item name="android:showDividers">middle</item>
+        <item name="android:dividerPadding">8dip</item>
+        <item name="android:measureWithLargestChild">true</item>
+    </style>
+</resources>

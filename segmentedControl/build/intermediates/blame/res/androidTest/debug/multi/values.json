@@ -1,0 +1,317 @@
+[
+    {
+        "outputFile": "/Users/jaafaralmahy/Downloads/GeocodeApp/segmentedControl/build/intermediates/res/merged/androidTest/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 38,
+                    "endOffset": 89
+                },
+                "from": {
+                    "file": "/Users/jaafaralmahy/Downloads/GeocodeApp/segmentedControl/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 38,
+                        "endOffset": 89
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 94,
+                    "endColumn": 45,
+                    "endOffset": 135
+                },
+                "from": {
+                    "file": "/Users/jaafaralmahy/Downloads/GeocodeApp/segmentedControl/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 94,
+                        "endColumn": 45,
+                        "endOffset": 135
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 140,
+                    "endColumn": 55,
+                    "endOffset": 191
+                },
+                "from": {
+                    "file": "/Users/jaafaralmahy/Downloads/GeocodeApp/segmentedControl/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 140,
+                        "endColumn": 55,
+                        "endOffset": 191
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 196,
+                    "endColumn": 48,
+                    "endOffset": 240
+                },
+                "from": {
+                    "file": "/Users/jaafaralmahy/Downloads/GeocodeApp/segmentedControl/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 196,
+                        "endColumn": 48,
+                        "endOffset": 240
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 245,
+                    "endColumn": 48,
+                    "endOffset": 289
+                },
+                "from": {
+                    "file": "/Users/jaafaralmahy/Downloads/GeocodeApp/segmentedControl/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 245,
+                        "endColumn": 48,
+                        "endOffset": 289
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 294,
+                    "endColumn": 39,
+                    "endOffset": 329
+                },
+                "from": {
+                    "file": "/Users/jaafaralmahy/Downloads/GeocodeApp/segmentedControl/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 294,
+                        "endColumn": 39,
+                        "endOffset": 329
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 334,
+                    "endColumn": 40,
+                    "endOffset": 370
+                },
+                "from": {
+                    "file": "/Users/jaafaralmahy/Downloads/GeocodeApp/segmentedControl/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 334,
+                        "endColumn": 40,
+                        "endOffset": 370
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 815,
+                    "endColumn": 63,
+                    "endOffset": 874
+                },
+                "from": {
+                    "file": "/Users/jaafaralmahy/Downloads/GeocodeApp/segmentedControl/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 815,
+                        "endColumn": 63,
+                        "endOffset": 874
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 879,
+                    "endColumn": 54,
+                    "endOffset": 929
+                },
+                "from": {
+                    "file": "/Users/jaafaralmahy/Downloads/GeocodeApp/segmentedControl/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 879,
+                        "endColumn": 54,
+                        "endOffset": 929
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 934,
+                    "endColumn": 47,
+                    "endOffset": 977
+                },
+                "from": {
+                    "file": "/Users/jaafaralmahy/Downloads/GeocodeApp/segmentedControl/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 934,
+                        "endColumn": 47,
+                        "endOffset": 977
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 982,
+                    "endColumn": 66,
+                    "endOffset": 1044
+                },
+                "from": {
+                    "file": "/Users/jaafaralmahy/Downloads/GeocodeApp/segmentedControl/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 982,
+                        "endColumn": 66,
+                        "endOffset": 1044
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1049,
+                    "endColumn": 26,
+                    "endOffset": 1071
+                },
+                "from": {
+                    "file": "/Users/jaafaralmahy/Downloads/GeocodeApp/segmentedControl/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1049,
+                        "endColumn": 26,
+                        "endOffset": 1071
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1076,
+                    "endColumn": 31,
+                    "endOffset": 1103
+                },
+                "from": {
+                    "file": "/Users/jaafaralmahy/Downloads/GeocodeApp/segmentedControl/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1076,
+                        "endColumn": 31,
+                        "endOffset": 1103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1108,
+                    "endLine": 35,
+                    "endColumn": 12,
+                    "endOffset": 2092
+                },
+                "from": {
+                    "file": "/Users/jaafaralmahy/Downloads/GeocodeApp/segmentedControl/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1108,
+                        "endLine": 35,
+                        "endColumn": 12,
+                        "endOffset": 2092
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2097,
+                    "endLine": 53,
+                    "endColumn": 12,
+                    "endOffset": 2943
+                },
+                "from": {
+                    "file": "/Users/jaafaralmahy/Downloads/GeocodeApp/segmentedControl/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 2097,
+                        "endLine": 53,
+                        "endColumn": 12,
+                        "endOffset": 2943
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 2948,
+                    "endLine": 59,
+                    "endColumn": 12,
+                    "endOffset": 3248
+                },
+                "from": {
+                    "file": "/Users/jaafaralmahy/Downloads/GeocodeApp/segmentedControl/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 2948,
+                        "endLine": 59,
+                        "endColumn": 12,
+                        "endOffset": 3248
+                    }
+                }
+            }
+        ]
+    }
+]
